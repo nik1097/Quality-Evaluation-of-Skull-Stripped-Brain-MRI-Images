@@ -1,2 +1,4 @@
 # Ignore all nii files
 *.nii
+# Ignore all pickle files
+*.pickle
